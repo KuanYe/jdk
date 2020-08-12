@@ -1,0 +1,3 @@
+/project/jdk12-06222165c35f/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/project/jdk12-06222165c35f/cmake-build-debug/CMakeFiles/edit_cache.dir
+/project/jdk12-06222165c35f/cmake-build-debug/CMakeFiles/jdk12_06222165c35f.dir
